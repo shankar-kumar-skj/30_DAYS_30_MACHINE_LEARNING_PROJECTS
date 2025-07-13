@@ -6,8 +6,8 @@ import numpy as np
 
 app=Flask(__name__)
 cors=CORS(app)
-model=pickle.load(open('D:/FINAL_YEAR_PROJECTS/MACHINE_LEARNING_PROJECT/CAR_PRICE_PREDICTOR/car_price_model.pkl','rb'))
-car=pd.read_csv('D:/FINAL_YEAR_PROJECTS/MACHINE_LEARNING_PROJECT/CAR_PRICE_PREDICTOR/cleaned_car.csv')
+model=pickle.load(open('D:/FINAL_YEAR_PROJECTS/MACHINE_LEARNING_PROJECT/30_DAYS_30_MACHINE_LEARNING_PROJECTS/CAR_PRICE_PREDICTOR/car_price_model.pkl','rb'))
+car=pd.read_csv('D:/FINAL_YEAR_PROJECTS/MACHINE_LEARNING_PROJECT/30_DAYS_30_MACHINE_LEARNING_PROJECTS/CAR_PRICE_PREDICTOR/cleaned_car.csv')
 
 @app.route('/',methods=['GET','POST'])
 def index():
