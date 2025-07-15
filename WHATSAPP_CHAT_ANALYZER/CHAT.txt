@@ -1,0 +1,282 @@
+12/7/24, 5:40 PM - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+12/9/24, 2:33 PM - 🥳🥳Shankar Kumar🥳🥳: 1103 ka samaan wala class
+12/9/24, 2:34 PM - 🥳🥳Shankar Kumar🥳🥳: Check kar near all classes
+12/9/24, 2:41 PM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+12/9/24, 2:41 PM - Sahil Agarwal PCE CS CORE 313: Thanks bhai
+12/14/24, 9:08 PM - 🥳🥳Shankar Kumar🥳🥳: null
+12/14/24, 9:09 PM - 🥳🥳Shankar Kumar🥳🥳: null
+12/25/24, 9:55 PM - Sahil Agarwal PCE CS CORE 313: https://practice.geeksforgeeks.org/courses/CourseDetailFragmentArgs{courseSlug=cpp-programming-basic-to-advanced, couponCode=XMAS30, discountedTier=gfg_course_1399}.courseSlug
+1/15/25, 1:30 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+1/15/25, 1:30 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+1/16/25, 7:44 AM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+1/19/25, 12:56 AM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+1/21/25, 12:46 AM - Sahil Agarwal PCE CS CORE 313: https://youtu.be/1P7ygNSe9lY?si=nYf4ZHJH9Pu_Kndz
+1/21/25, 10:24 PM - 🥳🥳Shankar Kumar🥳🥳: https://youtu.be/E9DOBLNB-aE?feature=shared
+1/23/25, 10:55 AM - 🥳🥳Shankar Kumar🥳🥳: #include <iostream>
+using namespace std;
+
+int main() {
+    try {
+        int num;
+        cout << "Enter a number: ";
+        cin >> num;
+
+        // Check if input is invalid
+        if (cin.fail()) {
+            throw "Invalid input! Please enter a number.";
+        }
+
+        cout << "The number you entered is: " << num << endl;
+    } catch (const char* errorMessage) {
+        // Handles the exception and displays an error message
+        cout << "Error: " << errorMessage << endl;
+    }
+
+    cout << "Program execution completed." << endl;
+    return 0;
+}
+1/23/25, 11:11 AM - Sahil Agarwal PCE CS CORE 313: #include <iostream>
+using namespace std;
+int main() {
+    try {
+        int num;
+        cout << "Enter a number: ";
+        cin >> num;
+        if (cin.fail()) {
+            throw "Invalid input! Please enter a number.";
+        }
+        cout << "The number you entered is: " << num << endl;
+    } 
+    catch (const char* errorMessage) {
+        cout << "Error: " << errorMessage << endl;
+    }
+    cout << "Program execution completed." << endl;
+    return 0;
+}
+1/24/25, 7:32 PM - 🥳🥳Shankar Kumar🥳🥳: null
+1/25/25, 9:52 AM - 🥳🥳Shankar Kumar🥳🥳: Tera earbuds mere pass ha ok!!
+1/25/25, 11:18 AM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+1/25/25, 11:33 AM - Sahil Agarwal PCE CS CORE 313: 12:00 bje library mai ok bhai
+1/25/25, 11:34 AM - Sahil Agarwal PCE CS CORE 313: Jb tk ap lunch krlo bhai
+1/27/25, 9:10 AM - Sahil Agarwal PCE CS CORE 313: Sorry bhai copy le lna jb utrenge bhai mujhe need thi copy ki isliye chyie thi bhai
+1/27/25, 1:51 PM - 🥳🥳Shankar Kumar🥳🥳: Ara pagal ha kya koi na bhai!!
+1/27/25, 9:20 PM - 🥳🥳Shankar Kumar🥳🥳: https://www.youtube.com/watch?v=HfDEZizfdR0
+1/27/25, 9:23 PM - 🥳🥳Shankar Kumar🥳🥳: https://www.youtube.com/playlist?list=PLhSp9OSVmeyIY6IQGr-Z6LQO8__gMyk5R
+1/29/25, 10:42 PM - 🥳🥳Shankar Kumar🥳🥳: http://youtube.com/watch?v=Su5ksHMTaTc
+1/31/25, 9:32 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+1/31/25, 9:35 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+2/6/25, 8:36 AM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+2/8/25, 9:09 AM - Sahil Agarwal PCE CS CORE 313: location: https://maps.google.com/?q=26.9437279,75.7654715
+2/10/25, 8:54 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+2/10/25, 9:02 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+2/10/25, 9:05 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+2/11/25, 12:52 PM - 🥳🥳Shankar Kumar🥳🥳: Class
+2/11/25, 2:55 PM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+2/11/25, 2:56 PM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+2/13/25, 11:52 AM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+2/13/25, 3:36 PM - Sahil Agarwal PCE CS CORE 313: computer vision-based system to detect and  classify road signs, obstacles, and pedestrian crossings in real-time for autonomous vehicles.
+2. Tourist Behaviour Analysis
+2/13/25, 6:06 PM - Sahil Agarwal PCE CS CORE 313: https://www.instagram.com/p/DF3HJn5uwJw/?igsh=ZzQyMmxrcHB6ZG5j
+2/14/25, 10:14 PM - 🥳🥳Shankar Kumar🥳🥳: https://t.me/c/2173205741/2924
+2/22/25, 11:10 AM - 🥳🥳Shankar Kumar🥳🥳: 11 : 30 am ma aa jana page laka!! 
+Ok!!
+2/22/25, 1:32 PM - Sahil Agarwal PCE CS CORE 313: Sorry bhai so gya tha bhai so sorry
+3/4/25, 3:28 PM - 🥳🥳Shankar Kumar🥳🥳: Registrar PCE <registrar.pce@poornima.org>
+3/6/25, 9:25 AM - Sahil Agarwal PCE CS CORE 313: Sir gye nhi kya bhai??
+3/6/25, 9:30 AM - 🥳🥳Shankar Kumar🥳🥳: Attendance la raha ha
+3/6/25, 10:38 AM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+3/6/25, 2:01 PM - Sahil Agarwal PCE CS CORE 313: #include<stdio.h>
+void main(){
+    int data[10];
+    int dataatrec[10],c1,c2,c3,i,c;
+
+    printf("ENTER 4 BITS OF DATA ONE BY ONE \n");
+    scanf("%d",&data[0]);
+    scanf("%d",&data[1]);
+    scanf("%d",&data[2]);
+    scanf("%d",&data[4]);
+
+    // calculation of even parity
+    data[6]=data[0]^data[2]^data[4];
+    data[5]=data[0]^data[1]^data[4];
+    data[3]=data[0]^data[1]^data[2];
+
+    printf("\n Encoding data is \n");
+    for(i=0;i<7;i++){
+        printf("%d",data[i]);
+    }
+    printf("\n \n Enter received data bits one by one \n");
+    for(i = 0;i<7;i++){
+        scanf("%d",&dataatrec[i]);
+    }
+    c1=dataatrec[6]^dataatrec[4]^dataatrec[2]^dataatrec[0];
+    c2=dataatrec[5]^dataatrec[4]^dataatrec[1]^dataatrec[0];
+    c3=dataatrec[3]^dataatrec[2]^dataatrec[1]^dataatrec[0];
+
+    c=c3*4+ c2*2+c1;
+
+    if (c==0){
+        printf("\n No error while transmission of data \n");
+    }
+    else {
+        printf("\n Error on position %d",c);
+
+        printf("\n Data sent: ");
+        for(i=0;i<7;i++){
+            printf("%d",data[i]);
+        }
+        printf("\n Correct message is \n");
+
+        // if errorneous bit is 0 we complement it else vice verse 
+        if (dataatrec[7-c]==0){
+            dataatrec[7-c]=1;
+        }
+        else{
+            dataatrec[7-c]=0;
+        }
+        for(i=0;i<7;i++){
+            printf("%d",dataatrec[i]);
+        }
+    }
+}
+3/8/25, 2:30 PM - Sahil Agarwal PCE CS CORE 313: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/FGFDBogBU1R6fh5HH0HQUv
+3/8/25, 2:32 PM - 🥳🥳Shankar Kumar🥳🥳: Make pulkit admin also!!
+3/8/25, 2:33 PM - Sahil Agarwal PCE CS CORE 313: ok bhai
+3/15/25, 9:19 PM - Sahil Agarwal PCE CS CORE 313: 👍👍
+3/21/25, 11:13 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 10:03 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 10:03 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 10:03 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 10:03 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 10:45 AM - 🥳🥳Shankar Kumar🥳🥳: ♥️♥️♥️♥️♥️
+3/22/25, 3:21 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/22/25, 3:21 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/30/25, 9:31 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/30/25, 9:31 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/30/25, 9:31 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+3/30/25, 9:44 PM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+4/4/25, 6:53 PM - 🥳🥳Shankar Kumar🥳🥳: https://pentathon2025.in/login
+4/5/25, 9:28 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+4/5/25, 11:36 PM - Sahil Agarwal PCE CS CORE 313: https://pcmirror.cc/pv/
+4/7/25, 8:13 AM - 🥳🥳Shankar Kumar🥳🥳: Bho nahi ge ye mess
+4/10/25, 2:39 PM - 🥳🥳Shankar Kumar🥳🥳: 31 maths
+4/10/25, 4:10 PM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+4/17/25, 8:10 AM - 🥳🥳Shankar Kumar🥳🥳: Tere earbuds mere pass ha!
+4/17/25, 9:09 AM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+4/17/25, 9:09 AM - Sahil Agarwal PCE CS CORE 313: This message was deleted
+4/17/25, 9:09 AM - Sahil Agarwal PCE CS CORE 313: This message was deleted
+4/18/25, 8:54 AM - 🥳🥳Shankar Kumar🥳🥳: Java lab ka mere copy la ana mere!
+4/18/25, 8:55 AM - 🥳🥳Shankar Kumar🥳🥳: 2 nd period ma java lab !!
+4/22/25, 12:36 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+5/3/25, 10:55 PM - 🥳🥳Shankar Kumar🥳🥳: null
+5/3/25, 10:55 PM - 🥳🥳Shankar Kumar🥳🥳: null
+5/10/25, 9:25 AM - Sahil Agarwal PCE CS CORE 313: Bhai jab maths kro bta dena bhai
+5/10/25, 9:25 AM - Sahil Agarwal PCE CS CORE 313: Sath mai krlenge
+5/10/25, 9:25 AM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+5/10/25, 9:31 AM - 🥳🥳Shankar Kumar🥳🥳: kal 3 pm ka baad
+5/10/25, 9:33 AM - Sahil Agarwal PCE CS CORE 313: ok bhai
+5/10/25, 9:33 AM - Sahil Agarwal PCE CS CORE 313: thanks bhai
+5/10/25, 10:28 PM - 🥳🥳Shankar Kumar🥳🥳: https://drive.google.com/drive/folders/1FdhcsQnFFPAHSWVZlLcgRM-_tYRbgv_G?usp=drive_link
+5/13/25, 8:32 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+5/30/25, 8:34 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+5/30/25, 8:35 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+5/30/25, 9:00 PM - 🥳🥳Shankar Kumar🥳🥳: 2. https://youtu.be/7TVdth6U4j4?feature=shared
+3. https://youtu.be/gQdNW6NXM64?feature=shared
+4. (a) https://youtu.be/jOV35D9idcc?feature=shared
+       (b) https://youtu.be/1HYOLZ6k8aQ?feature=shared
+5. maxwell's all equations playlist https://youtube.com/playlist?list=PLAPKGqvQGg6oD3_FnLPg6ZHP4gjE2O3W5&feature=shared
+5/30/25, 9:05 PM - 🥳🥳Shankar Kumar🥳🥳: 1. https://youtu.be/rrzSwCFk23Y?feature=shared
+2. https://youtu.be/QdQE-F2A0T4?feature=shared
+3. https://youtu.be/be8VMm2hDAo?feature=shared
+4. https://youtu.be/g45sgYW_eZo?feature=shared
+5. https://youtu.be/dpNpzZ4qQN4?feature=shared
+OK BHAI!
+5/30/25, 9:41 PM - Sahil Agarwal PCE CS CORE 313: thanks  bhai
+6/1/25, 4:51 PM - 🥳🥳Shankar Kumar🥳🥳: https://youtu.be/mMaBXC0mHPE?feature=shared
+6/4/25, 11:50 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:50 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:51 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:52 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:52 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:53 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/4/25, 11:55 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/7/25, 8:29 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/7/25, 11:05 PM - Sahil Agarwal PCE CS CORE 313: This message was deleted
+6/12/25, 1:13 PM - 🥳🥳Shankar Kumar🥳🥳: Regex.vcf (file attached)
+6/12/25, 2:10 PM - Sahil Agarwal PCE CS CORE 313: Thanks bhai🙏🙏
+6/12/25, 2:11 PM - 🥳🥳Shankar Kumar🥳🥳: Thank nahi bola kar
+6/15/25, 1:17 AM - Sahil Agarwal PCE CS CORE 313: null
+6/15/25, 1:17 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/15/25, 1:17 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/15/25, 1:17 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/15/25, 1:17 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/19/25, 8:25 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/19/25, 8:25 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/19/25, 8:25 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/19/25, 8:25 AM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/21/25, 9:23 AM - 🥳🥳Shankar Kumar🥳🥳: <Media omitted>
+6/21/25, 7:53 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+6/24/25, 7:58 PM - 🥳🥳Shankar Kumar🥳🥳: user authentaciation failed:
+mount -o remount,rw /
+usermod -aG sudo sahil
+reboot
+=> reopen the ubuntu 
+sudo apt update <This message was edited>
+6/24/25, 7:58 PM - Sahil Agarwal PCE CS CORE 313: thanks bhai
+6/25/25, 8:14 AM - 🥳🥳Shankar Kumar🥳🥳: https://epaperwave.com/download-the-economic-times-pdf-newspaper-free/
+newspaper!
+6/25/25, 8:14 AM - You pinned a message
+6/27/25, 8:10 AM - 🥳🥳Shankar Kumar🥳🥳: Pulkit ko bol sath ma chalna ka leye aga picha nahi
+6/27/25, 8:17 AM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+7/4/25, 11:15 AM - Sahil Agarwal PCE CS CORE 313: Bhai phone pe notification aya hoga ok krdo
+7/4/25, 11:16 AM - Sahil Agarwal PCE CS CORE 313: Email ID open krna ka
+7/4/25, 11:17 AM - Sahil Agarwal PCE CS CORE 313: Krdia allow??
+7/4/25, 11:18 AM - 🥳🥳Shankar Kumar🥳🥳: Nahi hua
+7/4/25, 11:18 AM - Sahil Agarwal PCE CS CORE 313: Kyu kya hoa mai phirse bhejta hoon bhai
+7/4/25, 11:19 AM - 🥳🥳Shankar Kumar🥳🥳: ARA BLUETHOOTH CONNECT HOTA HA TAB HE HOTA HA
+7/4/25, 11:19 AM - Sahil Agarwal PCE CS CORE 313: Krdia connect
+7/4/25, 11:19 AM - 🥳🥳Shankar Kumar🥳🥳: .
+7/4/25, 11:20 AM - 🥳🥳Shankar Kumar🥳🥳: 10 METER DISTANCE KA ANDAR HE POSSIBLE HA BHO BHAI
+7/4/25, 11:20 AM - Sahil Agarwal PCE CS CORE 313: ok bhai
+7/4/25, 11:20 AM - 🥳🥳Shankar Kumar🥳🥳: SORRY BHAI
+7/4/25, 11:20 AM - Sahil Agarwal PCE CS CORE 313: koi baat nhi bhai
+7/4/25, 2:07 PM - Sahil Agarwal PCE CS CORE 313: 🥺🥺🥹🥹
+7/4/25, 2:07 PM - Sahil Agarwal PCE CS CORE 313: 🥹🥹
+7/8/25, 10:17 AM - 🥳🥳Shankar Kumar🥳🥳: Tyer ka business
+7/8/25, 12:44 PM - Sahil Agarwal PCE CS CORE 313: skj22 <This message was edited>
+7/10/25, 10:42 AM - 🥳🥳Shankar Kumar🥳🥳: bhai ma kaam terminate maat kar
+7/10/25, 10:44 AM - 🥳🥳Shankar Kumar🥳🥳: skj2211 ko terminate maat karna
+7/10/25, 10:45 AM - 🥳🥳Shankar Kumar🥳🥳: usma work kar  raha hu ma bsdk
+7/10/25, 12:00 PM - Sahil Agarwal PCE CS CORE 313: Ok bhai
+7/10/25, 12:00 PM - Sahil Agarwal PCE CS CORE 313: Sorry bhai
+7/10/25, 12:00 PM - Sahil Agarwal PCE CS CORE 313: 🥹🥹🥺🥺
+7/10/25, 12:00 PM - 🥳🥳Shankar Kumar🥳🥳: ub kar deya ub kya bakchodi kar raha ha
+7/10/25, 12:00 PM - 🥳🥳Shankar Kumar🥳🥳: beta bakchod se backchodi nahi!
+7/10/25, 12:01 PM - Sahil Agarwal PCE CS CORE 313: Pulkit
+7/10/25, 12:01 PM - Sahil Agarwal PCE CS CORE 313: 🤣🤣
+7/10/25, 12:01 PM - 🥳🥳Shankar Kumar🥳🥳: ub uska marage
+7/10/25, 12:01 PM - Sahil Agarwal PCE CS CORE 313: Nhi nhi 🤣🤣🤔🤔😊😊
+7/12/25, 1:24 PM - 🥳🥳Shankar Kumar🥳🥳: Sun sara photo bhejna
+7/12/25, 1:32 PM - Sahil Agarwal PCE CS CORE 313: Ok
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: null
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: <Media omitted>
+7/12/25, 5:08 PM - Sahil Agarwal PCE CS CORE 313: Photos bhej dena bhai
+7/12/25, 8:49 PM - Sahil Agarwal PCE CS CORE 313: 🙏
+7/13/25, 1:59 PM - Sahil Agarwal PCE CS CORE 313: https://www.dailymotion.com/video/x8j2icu
+7/15/25, 12:28 PM - 🥳🥳Shankar Kumar🥳🥳: Sahil cyber bot terminate maat karna please!
+7/15/25, 12:50 PM - Sahil Agarwal PCE CS CORE 313: ok bhai
+7/15/25, 12:50 PM - Sahil Agarwal PCE CS CORE 313: 🫡🫡
